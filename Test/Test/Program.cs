@@ -10,10 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Rupesh");
+            Console.WriteLine("Rupesh new");
             Console.WriteLine("test123");
-            Console.WriteLine("test123");
-            Console.WriteLine("test12345");
         }
     }
 }
